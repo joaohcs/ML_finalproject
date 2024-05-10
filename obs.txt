@@ -1,0 +1,11 @@
+
+
+Base de dados -> Documentos
+
+Jogar documentos no sistema
+
+Testar em que condições o sistema quebra
+
+Transformar em um projeto de exploração sobre RAG, uso de diferentes embeddings, medidas de dissimilaridade etc
+
+
