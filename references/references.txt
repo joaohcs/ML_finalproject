@@ -1,0 +1,12 @@
+Link base OpenRAG - Base sobre RAG construída por pesquisadores
+https://openrag.notion.site/Open-RAG-c41b2a4dcdea4527a7c1cd998e763595
+
+Paper de revisão sobre trabalhos de RAG - "Retrieval-Augmented Generation for Large Language models"
+https://arxiv.org/pdf/2312.10997
+
+Blog Post com imagens legais pra usar em tutorial e code snippets
+https://www.anyscale.com/blog/a-comprehensive-guide-for-building-rag-based-llm-applications-part-1
+
+Open Source RAG Framework para AI Assistants
+https://docs.quivr.app/intro
+https://github.com/QuivrHQ/quivr?tab=readme-ov-file
