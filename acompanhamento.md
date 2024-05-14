@@ -15,3 +15,8 @@
     - Como gerar alucinações
 
     - etc
+
+# Quinta-feira (16/05/2024)
+
+- Terminar o tutorial
+
